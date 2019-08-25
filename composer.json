@@ -1,0 +1,14 @@
+{
+    "name": "guoguo666/thinkphp_composer",
+    "description": "test composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "1157949371@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
